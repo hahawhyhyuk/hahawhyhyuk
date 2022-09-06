@@ -2,9 +2,11 @@
 
 Master's Course of Department of BigData Analytics at KHU
 
-Data Scientist
+
 
 <div align="center">
+✏️Data Scientist✏️
+  
   
   🛠 Tech Stack️🛠
 
