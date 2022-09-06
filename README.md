@@ -1,8 +1,12 @@
 # Hyuk Heo
 
 Master's Course of Department of BigData Analytics at KHU
+
+Data Scientist
+
 <div align="center">
-🛠 Tech Stack️🛠
+  
+  🛠 Tech Stack️🛠
 
 Tech that i've used at least once
 
