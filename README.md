@@ -1,5 +1,4 @@
 # Hyuk Heo
-Hyuk Heo.md
 
 Master's Course of Department of BigData Analytics at KHU
 <div align="center">
